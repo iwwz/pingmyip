@@ -1,0 +1,13 @@
+一个针对服务器地址列表进行批量检测的脚本
+在@WhiteWorld/newping的基础上完善，个人使用原因改为跳出循环。
+
+实现原理：
+检测hostlist中的地址列表并打印到屏幕
+将屏幕输出为名称为date的文件和newlist文件
+对比newlist与lastlist，如文本内容不同则推送到server酱，相同则不做处理
+将newlist内容输出至lastlist
+完毕
+
+支持为IP地址添加各种属性备注
+支持server酱推送
+支持每次输出以时间为名称的log文件，方便后期统计数据
