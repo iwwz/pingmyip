@@ -13,4 +13,4 @@
 支持每次输出以时间为名称的log文件，方便后期统计数据
 
 如果要在windows下跑这个脚本，要用到git bash，由于Windows环境下,基本默认都是GBK,所以要修改编码为UTF-8。
-![Image text](https://github.com/iwwz/pingmyip/blob/main/%E4%BF%AE%E6%94%B9%E5%9C%B0%E5%8C%BA%E8%AF%AD%E8%A8%80.png)
+![img](https://github.com/iwwz/pingmyip/blob/main/%E4%BF%AE%E6%94%B9%E5%9C%B0%E5%8C%BA%E8%AF%AD%E8%A8%80.png)
